@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Training", "Training\Training.csproj", "{EA588724-8C1D-49C0-82A1-56B755A5A52C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDTest", "CRUDTest\CRUDTest.csproj", "{94842C57-D7B3-4E3C-805E-40854D00B277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA588724-8C1D-49C0-82A1-56B755A5A52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA588724-8C1D-49C0-82A1-56B755A5A52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA588724-8C1D-49C0-82A1-56B755A5A52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA588724-8C1D-49C0-82A1-56B755A5A52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94842C57-D7B3-4E3C-805E-40854D00B277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94842C57-D7B3-4E3C-805E-40854D00B277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94842C57-D7B3-4E3C-805E-40854D00B277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94842C57-D7B3-4E3C-805E-40854D00B277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A726FA86-ECAA-4FFC-8243-DF471F69DB9F}
+	EndGlobalSection
+EndGlobal
