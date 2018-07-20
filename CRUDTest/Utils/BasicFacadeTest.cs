@@ -6,7 +6,7 @@ using Xunit;
 
 namespace CRUDTest.Utils
 {
-    public class BasicFacadeTest<TFacade, TModel, TDataUtil>
+    public abstract class BasicFacadeTest<TFacade, TModel, TDataUtil>
         where TFacade : IBaseFacade<TModel>
         where TModel : BaseModel
         where TDataUtil : IDataUtil<TModel>, new()
